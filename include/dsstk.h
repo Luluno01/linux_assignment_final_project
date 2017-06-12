@@ -18,7 +18,6 @@ using namespace std;
 
 #ifndef _DSSTK_H_
 #define _DSSTK_H_
-#endif // _DSSTK_H_
 
 #define __INIT_STACK_SIZE__ 100
 #define __STACK_INCREMENT__ 50
@@ -44,3 +43,5 @@ public:
 };
 
 #include "../dsstk.cpp"
+
+#endif // _DSSTK_H_

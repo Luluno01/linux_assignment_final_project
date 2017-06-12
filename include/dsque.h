@@ -17,7 +17,6 @@ using namespace std;
 
 #ifndef _DSQUE_H_
 #define _DSQUE_H_
-#endif // _DSQUE_H_
 
 //#define __MAX_QUEUE_SIZE__ 100
 
@@ -40,3 +39,5 @@ public:
 };
 
 #include "../dsque.cpp"
+
+#endif // _DSQUE_H_

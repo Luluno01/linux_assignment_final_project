@@ -17,7 +17,6 @@ using namespace std;
 
 #ifndef _DSTREE_H_
 #define _DSTREE_H_
-#endif // _DSTREE_H_
 
 #define __MAX_TREE_SIZE__ 100
 
@@ -52,3 +51,5 @@ public:
 };
 
 #include "../dstree.cpp"
+
+#endif // _DSTREE_H_
